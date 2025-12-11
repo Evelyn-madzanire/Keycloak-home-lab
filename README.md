@@ -29,7 +29,6 @@ This lab demonstrates:
 ### 🧩 Step 1: Install Java
 - Installed **OpenJDK** and verified version  
 - Configured **Environment Variables**  
-![Java Installed](java-install.png)
 
 ---
 
@@ -37,7 +36,6 @@ This lab demonstrates:
 - Downloaded Keycloak from the official site  
 - Extracted ZIP folder  
 - Opened the `bin` directory  
-![Keycloak Extracted](keycloak-extract.png)
 
 ---
 
